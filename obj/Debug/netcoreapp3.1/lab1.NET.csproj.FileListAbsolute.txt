@@ -1,0 +1,11 @@
+C:\Users\roomey\Desktop\c#\lab1.NET\lab1.NET\bin\Debug\netcoreapp3.1\lab1.NET.exe
+C:\Users\roomey\Desktop\c#\lab1.NET\lab1.NET\bin\Debug\netcoreapp3.1\lab1.NET.deps.json
+C:\Users\roomey\Desktop\c#\lab1.NET\lab1.NET\bin\Debug\netcoreapp3.1\lab1.NET.runtimeconfig.json
+C:\Users\roomey\Desktop\c#\lab1.NET\lab1.NET\bin\Debug\netcoreapp3.1\lab1.NET.runtimeconfig.dev.json
+C:\Users\roomey\Desktop\c#\lab1.NET\lab1.NET\bin\Debug\netcoreapp3.1\lab1.NET.dll
+C:\Users\roomey\Desktop\c#\lab1.NET\lab1.NET\bin\Debug\netcoreapp3.1\lab1.NET.pdb
+C:\Users\roomey\Desktop\c#\lab1.NET\lab1.NET\obj\Debug\netcoreapp3.1\lab1.NET.csprojAssemblyReference.cache
+C:\Users\roomey\Desktop\c#\lab1.NET\lab1.NET\obj\Debug\netcoreapp3.1\lab1.NET.AssemblyInfoInputs.cache
+C:\Users\roomey\Desktop\c#\lab1.NET\lab1.NET\obj\Debug\netcoreapp3.1\lab1.NET.AssemblyInfo.cs
+C:\Users\roomey\Desktop\c#\lab1.NET\lab1.NET\obj\Debug\netcoreapp3.1\lab1.NET.dll
+C:\Users\roomey\Desktop\c#\lab1.NET\lab1.NET\obj\Debug\netcoreapp3.1\lab1.NET.pdb
